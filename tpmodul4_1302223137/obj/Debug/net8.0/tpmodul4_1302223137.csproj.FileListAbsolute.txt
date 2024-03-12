@@ -1,0 +1,15 @@
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\bin\Debug\net8.0\tpmodul4_1302223137.exe
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\bin\Debug\net8.0\tpmodul4_1302223137.deps.json
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\bin\Debug\net8.0\tpmodul4_1302223137.runtimeconfig.json
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\bin\Debug\net8.0\tpmodul4_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\bin\Debug\net8.0\tpmodul4_1302223137.pdb
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.AssemblyInfoInputs.cache
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.AssemblyInfo.cs
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.sourcelink.json
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\refint\tpmodul4_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.pdb
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\tpmodul4_1302223137.genruntimeconfig.cache
+C:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302223137\tpmodul4_1302223137\obj\Debug\net8.0\ref\tpmodul4_1302223137.dll
